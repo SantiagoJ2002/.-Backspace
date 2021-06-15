@@ -27,6 +27,9 @@ img, svg {
     width: 25px;
     margin-right: 10px;
 }
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(173 255 47);
+}
 .search-var {
     display: flex;
 }
